@@ -15,5 +15,15 @@
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
 	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/commons-fileupload-1.4.jar"/>
 	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/commons-io-2.2.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/httpclient-0.3-3.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/aspectjrt-1.8.4.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jcabi-aspects-0.22.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jcabi-immutable-1.4.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jcabi-log-0.17.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jcabi-xml-0.18.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/slf4j-api-1.7.5.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/validation-api-1.1.0.Final.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/httpclient-4.5.7.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
